@@ -14,3 +14,5 @@ Welcome to my digital media class portfolio. This GitHub Pages site showcases pr
 # MOODBOARD
 ![moodboard](https://github.com/user-attachments/assets/2877f9b5-bc4c-40e2-9768-7f1f7a09be42)
 
+# MEME
+<img width="254" alt="meme" src="https://github.com/user-attachments/assets/b6a09f8c-68a0-4a48-80e4-9421611a37fd" />
