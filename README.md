@@ -7,3 +7,10 @@ Welcome to my digital media class portfolio. This GitHub Pages site showcases pr
 
 # STORYTELLING
 ![Storytelling](https://github.com/user-attachments/assets/31439132-6ee1-4ff4-9662-29aa857281ef)
+
+# SELF PORTRAIT 
+![self-portrait](https://github.com/user-attachments/assets/d4dc6bf6-4d37-4c79-a495-c0d3ac02d37f)
+
+# MOODBOARD
+![moodboard](https://github.com/user-attachments/assets/2877f9b5-bc4c-40e2-9768-7f1f7a09be42)
+
